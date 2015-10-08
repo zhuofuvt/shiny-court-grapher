@@ -1,4 +1,4 @@
-# read in case management system data
+## read in case management system data
 source("reports/CMS_prep.R")
 
 # load all packages
